@@ -1,3 +1,4 @@
+Markdown
 # cartão-presente
 
 ## Descrição
@@ -11,6 +12,6 @@ Este projeto é um cartão de presente digital interativo, criado utilizando HTM
 
 ## Instalação
 
-1. Clone este repositório:
+1. **Clone este repositório:**
    ```bash
-   git clone [URL inválido removido]
+   git clone [https://github.com/as7-hsware-engineer/cartao-presente.git](https://github.com/as7-hsware-engineer/cartao-presente.git)
